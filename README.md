@@ -37,6 +37,7 @@ I take pride in my academic achievements, showcasing my dedication to learning:
 - 91.60% in 10th
 - 88% (1st semester diploma)
 - 89% (2nd semester diploma)
+- 91% (3rd semester diploma)
 
 ## 🚀 GitHub Journey
 
