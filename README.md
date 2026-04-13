@@ -98,7 +98,6 @@ public class Swaraj implements Developer {
 ![MySQL](https://img.shields.io/badge/MySQL-2c3e99?style=for-the-badge&logo=mysql&logoColor=e0e7ff)
 ![JDBC](https://img.shields.io/badge/JDBC-4b5fd4?style=for-the-badge&logo=openjdk&logoColor=e0e7ff)
 ![Python](https://img.shields.io/badge/Python-6f7fd5?style=for-the-badge&logo=python&logoColor=e0e7ff)
-![Android](https://img.shields.io/badge/Android_SDK-2c3e99?style=for-the-badge&logo=android&logoColor=e0e7ff)
 ![Firebase](https://img.shields.io/badge/Firebase-4b5fd4?style=for-the-badge&logo=firebase&logoColor=e0e7ff)
 ![Git](https://img.shields.io/badge/Git-6f7fd5?style=for-the-badge&logo=git&logoColor=e0e7ff)
 ![Postman](https://img.shields.io/badge/Postman-2c3e99?style=for-the-badge&logo=postman&logoColor=e0e7ff)
