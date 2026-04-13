@@ -135,10 +135,6 @@ public class Swaraj implements Developer {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwarajKanse&bg_color=0d1117&color=a5b3e1&line=6f7fd5&point=e0e7ff&area=true&area_color=2c3e99&hide_border=true&custom_title=contribution%20graph&title_color=a5b3e1&radius=8" width="96%"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajKanse&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b3e1&text_color=e0e7ff" height="140"/>
-
 </div>
 
 ---
